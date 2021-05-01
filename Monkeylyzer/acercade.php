@@ -29,7 +29,7 @@ include("funciones.php");
             Comprueba que la contraseña tenga 8 caracteres o más de longitud.<br clear="all"><br/>
 
             <h2>Contacto</h2>
-            Creado por Celeste Laura Clavijo Villatoro
+            Creado por Celx2
             <br clear="all"><br/>
             <form method="post" action="index.php">
                 <button type="submit" class="btn btn-info btn-block login">Volver a inicio</button>
